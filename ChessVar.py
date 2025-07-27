@@ -1,7 +1,4 @@
-# Author: Hiba Ahmad
-# GitHub username: hiba936151
-# Date: 15 November 2024
-# Description: This file contains a variant on a chess game.
+# Contains the methods containing information on each type of chess piece, functionality, and the actual board.
 
 class ChessPiece:
     """
